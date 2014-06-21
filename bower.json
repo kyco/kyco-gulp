@@ -1,0 +1,10 @@
+{
+  "name": "kyco-gulp",
+  "version": "1.0.0",
+  "description": "kyco-gulp demo",
+  "main": "index.html",
+  "private": "true",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
